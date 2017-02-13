@@ -1,5 +1,5 @@
 {
-    "name": "ricbra/php-discogs-api",
+    "name": "psyray/php-discogs-api",
     "description": "The Discogs API makes it easy for developers to communicate with the Discogs platform",
     "type": "library",
     "keywords": ["discogs", "api"],
@@ -28,6 +28,6 @@
         }
     },
     "suggest": {
-        "ricbra/discogs-bundle": "For integrating Discogs into Symfony2"
+        "psyray/discogs-bundle": "For integrating Discogs into Symfony2"
     }
 }
